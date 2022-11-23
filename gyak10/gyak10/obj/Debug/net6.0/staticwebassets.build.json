@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "1xnm03aFfVvbGQmL7rcT6MDo0OuwG3Z/s3ZRHhfIE9c=",
+  "Source": "gyak10",
+  "BasePath": "_content/gyak10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "gyak10\\wwwroot",
+      "Source": "gyak10",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\",
+      "BasePath": "_content/gyak10",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\geek.css",
+      "SourceId": "gyak10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\",
+      "BasePath": "_content/gyak10",
+      "RelativePath": "geek.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\geek.css"
+    },
+    {
+      "Identity": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\geek.html",
+      "SourceId": "gyak10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\",
+      "BasePath": "_content/gyak10",
+      "RelativePath": "geek.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\geek.html"
+    },
+    {
+      "Identity": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\geek.js",
+      "SourceId": "gyak10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\",
+      "BasePath": "_content/gyak10",
+      "RelativePath": "geek.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\geek.js"
+    },
+    {
+      "Identity": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\jokes.json",
+      "SourceId": "gyak10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\gyak10\\gyak10\\wwwroot\\",
+      "BasePath": "_content/gyak10",
+      "RelativePath": "jokes.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jokes.json"
+    }
+  ]
+}
