@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "YUiUjCm/ng4UHN7LTO+ao5/o5o24j2VN7MVpOVE3Srw=",
+  "Source": "pascal",
+  "BasePath": "_content/pascal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pascal\\wwwroot",
+      "Source": "pascal",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\pascal\\pascal\\wwwroot\\",
+      "BasePath": "_content/pascal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Matyi\\source\\repos\\pascal\\pascal\\wwwroot\\jsgyak.css",
+      "SourceId": "pascal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\pascal\\pascal\\wwwroot\\",
+      "BasePath": "_content/pascal",
+      "RelativePath": "jsgyak.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsgyak.css"
+    },
+    {
+      "Identity": "C:\\Users\\Matyi\\source\\repos\\pascal\\pascal\\wwwroot\\jsgyak.html",
+      "SourceId": "pascal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\pascal\\pascal\\wwwroot\\",
+      "BasePath": "_content/pascal",
+      "RelativePath": "jsgyak.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsgyak.html"
+    },
+    {
+      "Identity": "C:\\Users\\Matyi\\source\\repos\\pascal\\pascal\\wwwroot\\jsgyak.js",
+      "SourceId": "pascal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\source\\repos\\pascal\\pascal\\wwwroot\\",
+      "BasePath": "_content/pascal",
+      "RelativePath": "jsgyak.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsgyak.js"
+    }
+  ]
+}
